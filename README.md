@@ -4,6 +4,8 @@ Projeto de Login utilizando Firebase
 Descrição:
 O código JavaScript implementa as funcionalidades de login com a conta do Google e recuperação de senha para uma aplicação web. As funções utilizam a biblioteca de autenticação do Firebase para interagir com o Google Sign-In e enviar e-mails de redefinição de senha.
 
+![image](https://github.com/user-attachments/assets/826b6ef2-3e74-4a6f-a3e2-8be9d43fc8db)
+
 
 Login com Google:
 Ao clicar no botão "google", o usuário é redirecionado para o fluxo de autenticação do Google.
