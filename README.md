@@ -15,3 +15,6 @@ Ao clicar no botão "reset", um prompt solicita o endereço de e-mail do usuári
 O e-mail é validado para garantir que esteja no formato correto.
 Se o e-mail for válido, um e-mail de redefinição de senha é enviado para o endereço fornecido.
 Caso ocorra algum erro, uma mensagem de erro é exibida ao usuário.
+![Group 80 (1)](https://github.com/user-attachments/assets/2766d8b1-db48-48ff-a2db-9d4db5b8c1d4)
+
+![image](https://github.com/user-attachments/assets/9c702d48-394b-49cd-994b-aa56d5475d2b)
