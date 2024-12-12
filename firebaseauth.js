@@ -67,7 +67,7 @@ recuperar.addEventListener("click", function (event) {
       .then(() => {
         Swal.fire({
           title: "Email enviado!",
-          text: "Um email de recuperação foi enviado para sua caixa de email",
+          text: "Caso o email esteja cadastrado um email de recuperação foi enviado para sua caixa de email",
           icon: "success"
         });
 
