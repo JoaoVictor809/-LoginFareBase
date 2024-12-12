@@ -8,6 +8,8 @@ O código JavaScript implementa as funcionalidades de login com a conta do Googl
 Login com Google:
 Ao clicar no botão "google", o usuário é redirecionado para o fluxo de autenticação do Google.
 Após a autenticação bem-sucedida, o usuário é direcionado para a página "homepage.html".
+![Group 80](https://github.com/user-attachments/assets/c39adae0-7236-4241-b8ae-327a7a5c0f46)
+
 Recuperação de senha:
 Ao clicar no botão "reset", um prompt solicita o endereço de e-mail do usuário.
 O e-mail é validado para garantir que esteja no formato correto.
